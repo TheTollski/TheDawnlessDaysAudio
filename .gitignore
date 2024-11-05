@@ -1,0 +1,8 @@
+*.bnk
+*.mp3
+*.pack
+*.wav
+*.wem
+
+Originals/*
+test/*
