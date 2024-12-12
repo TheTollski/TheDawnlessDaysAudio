@@ -893,7 +893,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0.020833333333333332,
-            "SrcDuration": 30461.54195011338
+            "SrcDuration": 85000
           }
         ],
         "NumSubTrack": 1,
@@ -1004,7 +1004,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 30461.5646258503,
+        "Duration": 85000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -1012,7 +1012,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 30461.5646258503
+            "Position": 85000
           }
         ]
       },
@@ -1250,14 +1250,6 @@
             "Children": [
               {
                 "Key": "0 [?]",
-                "AudioNodeId": "566667418 [?]",
-                "ChildrenIdx": 0,
-                "Weight": 50,
-                "Probability": 100,
-                "Children": []
-              },
-              {
-                "Key": "1787064993 [barbarian]",
                 "AudioNodeId": "934311252 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
@@ -1265,7 +1257,7 @@
                 "Children": []
               },
               {
-                "Key": "2164288628 [roman]",
+                "Key": "3566762773 [ThisWas_0]",
                 "AudioNodeId": "566667418 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
@@ -1273,7 +1265,15 @@
                 "Children": []
               },
               {
-                "Key": "3254137205 [arabic]",
+                "Key": "454205348 [ThisWas_2164288628]",
+                "AudioNodeId": "566667418 [?]",
+                "ChildrenIdx": 0,
+                "Weight": 50,
+                "Probability": 100,
+                "Children": []
+              },
+              {
+                "Key": "1925644269 [ThisWas_3254137205]",
                 "AudioNodeId": "808922212 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
@@ -1281,7 +1281,7 @@
                 "Children": []
               },
               {
-                "Key": "4291304636 [hunnic]",
+                "Key": "3908596455 [ThisWas_4291304636]",
                 "AudioNodeId": "564736411 [?]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
