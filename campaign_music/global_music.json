@@ -9216,7 +9216,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 100779.34240362812
+            "SrcDuration": 64000
           }
         ],
         "NumSubTrack": 1,
@@ -9317,7 +9317,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 100779.342403628,
+        "Duration": 64000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9325,7 +9325,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 100779.342403628
+            "Position": 64000
           }
         ]
       },
