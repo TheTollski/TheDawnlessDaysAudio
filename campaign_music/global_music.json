@@ -3461,7 +3461,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "359245500 [?]",
+            "DirectParentID": "865785078 [CampaignAmbientMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -5596,7 +5596,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "359245500 [?]",
+            "DirectParentID": "865785078 [CampaignAmbientMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -7546,7 +7546,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "359245500 [?]",
+            "DirectParentID": "865785078 [CampaignAmbientMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -7940,7 +7940,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8013,7 +8013,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8148,7 +8148,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8285,7 +8285,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8422,7 +8422,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8559,7 +8559,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8706,7 +8706,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8848,7 +8848,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -8985,7 +8985,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9132,7 +9132,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9274,7 +9274,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9411,7 +9411,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9548,7 +9548,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9685,7 +9685,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9822,7 +9822,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -9964,7 +9964,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "864612182 [?]",
+            "DirectParentID": "1063008052 [Generic_CampaignAmbientMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -10037,7 +10037,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "359245500 [?]",
+            "DirectParentID": "865785078 [CampaignAmbientMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -10464,7 +10464,7 @@
       {
         "$type": "Music Switch Container",
         "EHircType": 12,
-        "UlID": "359245500 [?]",
+        "UlID": "865785078 [CampaignAmbientMusic_SwitchContainer]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -10513,7 +10513,7 @@
             "487233623 [?]",
             "495525852 [?]",
             "600053848 [?]",
-            "864612182 [?]"
+            "1063008052 [Generic_CampaignAmbientMusic]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -10575,7 +10575,7 @@
             "Children": [
               {
                 "Key": "0 [?]",
-                "AudioNodeId": "864612182 [?]",
+                "AudioNodeId": "1063008052 [Generic_CampaignAmbientMusic]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -10654,7 +10654,7 @@
           },
           "ChildIds": [
             "2886985 [?]",
-            "359245500 [?]"
+            "865785078 [CampaignAmbientMusic_SwitchContainer]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -10699,7 +10699,7 @@
               4294967295
             ],
             "DstIds": [
-              359245500
+              865785078
             ],
             "AkMusicTransSrcRule": {
               "TransitionTime": 5000,
@@ -10723,7 +10723,7 @@
           },
           {
             "SourceIds": [
-              359245500
+              865785078
             ],
             "DstIds": [
               4294967295
@@ -10780,7 +10780,7 @@
               2886985
             ],
             "DstIds": [
-              359245500
+              865785078
             ],
             "AkMusicTransSrcRule": {
               "TransitionTime": 3000,
@@ -10851,7 +10851,7 @@
             "Children": [
               {
                 "Key": "0 [?]",
-                "AudioNodeId": "359245500 [?]",
+                "AudioNodeId": "865785078 [CampaignAmbientMusic_SwitchContainer]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -10867,7 +10867,7 @@
               },
               {
                 "Key": "3025917178 [standard]",
-                "AudioNodeId": "359245500 [?]",
+                "AudioNodeId": "865785078 [CampaignAmbientMusic_SwitchContainer]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
