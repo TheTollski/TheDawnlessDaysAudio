@@ -7988,7 +7988,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 118607.301587302,
+        "Duration": 52000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -7996,7 +7996,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 118607.301587302
+            "Position": 52000
           }
         ]
       },
@@ -8191,7 +8191,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 100312.494331066,
+        "Duration": 93000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8199,7 +8199,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 100312.494331066
+            "Position": 93000
           }
         ]
       },
@@ -8328,7 +8328,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 115456.439909297,
+        "Duration": 99000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8336,7 +8336,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 115456.439909297
+            "Position": 99000
           }
         ]
       },
@@ -8465,7 +8465,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 93187.3242630386,
+        "Duration": 106000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8473,7 +8473,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 93187.3242630386
+            "Position": 106000
           }
         ]
       },
@@ -8607,7 +8607,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 102240.113378685,
+        "Duration": 357000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8615,7 +8615,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 102240.113378685
+            "Position": 357000
           }
         ]
       },
@@ -8754,7 +8754,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 118855.873015873,
+        "Duration": 91000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8762,7 +8762,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 118855.873015873
+            "Position": 91000
           }
         ]
       },
@@ -8891,7 +8891,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 116549.229024943,
+        "Duration": 188000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8899,7 +8899,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 116549.229024943
+            "Position": 188000
           }
         ]
       },
@@ -9033,7 +9033,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 112603.537414966,
+        "Duration": 120000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9041,7 +9041,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 112603.537414966
+            "Position": 120000
           }
         ]
       },
@@ -9180,7 +9180,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 105983.35600907,
+        "Duration": 102000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9188,7 +9188,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 105983.35600907
+            "Position": 102000
           }
         ]
       },
@@ -9454,7 +9454,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 111724.149659864,
+        "Duration": 86000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9462,7 +9462,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 111724.149659864
+            "Position": 86000
           }
         ]
       },
@@ -9591,7 +9591,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 106231.950113379,
+        "Duration": 51000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9599,7 +9599,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 106231.950113379
+            "Position": 51000
           }
         ]
       },
@@ -9728,7 +9728,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 128510.770975057,
+        "Duration": 91000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9736,7 +9736,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 128510.770975057
+            "Position": 91000
           }
         ]
       },
@@ -9870,7 +9870,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 101450.566893424,
+        "Duration": 146000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9878,7 +9878,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 101450.566893424
+            "Position": 146000
           }
         ]
       },
@@ -10012,7 +10012,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 125185.351473923,
+        "Duration": 87000,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -10020,7 +10020,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 125185.351473923
+            "Position": 87000
           }
         ]
       },
