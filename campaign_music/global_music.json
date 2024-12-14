@@ -7861,7 +7861,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "224302687 [?]",
+        "UlID": "2962378708 [Generic_CampaignAmbientMusic_1_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -7894,7 +7894,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "49451155 [?]",
+          "DirectParentID": "3609918658 [Generic_CampaignAmbientMusic_1_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -7930,7 +7930,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "49451155 [?]",
+        "UlID": "3609918658 [Generic_CampaignAmbientMusic_1_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -7976,7 +7976,7 @@
             }
           },
           "ChildIds": [
-            224302687
+            2962378708
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8069,7 +8069,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "18813052 [?]",
+        "UlID": "4164790979 [Generic_CampaignAmbientMusic_2_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8102,7 +8102,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "100298284 [?]",
+          "DirectParentID": "1621316105 [Generic_CampaignAmbientMusic_2_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8138,7 +8138,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "100298284 [?]",
+        "UlID": "1621316105 [Generic_CampaignAmbientMusic_2_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8179,7 +8179,7 @@
             }
           },
           "ChildIds": [
-            18813052
+            4164790979
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8206,7 +8206,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "399206681 [?]",
+        "UlID": "2789181190 [Generic_CampaignAmbientMusic_3_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8239,7 +8239,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "175625483 [?]",
+          "DirectParentID": "1679664756 [Generic_CampaignAmbientMusic_3_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8275,7 +8275,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "175625483 [?]",
+        "UlID": "1679664756 [Generic_CampaignAmbientMusic_3_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8316,7 +8316,7 @@
             }
           },
           "ChildIds": [
-            399206681
+            2789181190
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8343,7 +8343,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "1042603326 [?]",
+        "UlID": "1583106053 [Generic_CampaignAmbientMusic_4_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8376,7 +8376,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "182838220 [?]",
+          "DirectParentID": "2643391539 [Generic_CampaignAmbientMusic_4_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8412,7 +8412,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "182838220 [?]",
+        "UlID": "2643391539 [Generic_CampaignAmbientMusic_4_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8453,7 +8453,7 @@
             }
           },
           "ChildIds": [
-            1042603326
+            1583106053
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8480,7 +8480,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "149760099 [?]",
+        "UlID": "2267764552 [Generic_CampaignAmbientMusic_5_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8513,7 +8513,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "382713955 [?]",
+          "DirectParentID": "1497557694 [Generic_CampaignAmbientMusic_5_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8549,7 +8549,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "382713955 [?]",
+        "UlID": "1497557694 [Generic_CampaignAmbientMusic_5_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8595,7 +8595,7 @@
             }
           },
           "ChildIds": [
-            149760099
+            2267764552
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8622,7 +8622,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "648120347 [?]",
+        "UlID": "1010238935 [Generic_CampaignAmbientMusic_6_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8655,7 +8655,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "383880412 [?]",
+          "DirectParentID": "924964869 [Generic_CampaignAmbientMusic_6_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8696,7 +8696,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "383880412 [?]",
+        "UlID": "924964869 [Generic_CampaignAmbientMusic_6_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8742,7 +8742,7 @@
             }
           },
           "ChildIds": [
-            648120347
+            1010238935
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8769,7 +8769,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "258086927 [?]",
+        "UlID": "3746046410 [Generic_CampaignAmbientMusic_7_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8802,7 +8802,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "586206159 [?]",
+          "DirectParentID": "3948020976 [Generic_CampaignAmbientMusic_7_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8838,7 +8838,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "586206159 [?]",
+        "UlID": "3948020976 [Generic_CampaignAmbientMusic_7_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -8879,7 +8879,7 @@
             }
           },
           "ChildIds": [
-            258086927
+            3746046410
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -8906,7 +8906,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "863649082 [?]",
+        "UlID": "279066041 [Generic_CampaignAmbientMusic_8_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -8939,7 +8939,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "656015202 [?]",
+          "DirectParentID": "2666818255 [Generic_CampaignAmbientMusic_8_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -8975,7 +8975,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "656015202 [?]",
+        "UlID": "2666818255 [Generic_CampaignAmbientMusic_8_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9021,7 +9021,7 @@
             }
           },
           "ChildIds": [
-            863649082
+            279066041
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9048,7 +9048,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "843431367 [?]",
+        "UlID": "311459660 [Generic_CampaignAmbientMusic_9_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9081,7 +9081,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "753937368 [?]",
+          "DirectParentID": "4100944714 [Generic_CampaignAmbientMusic_9_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9122,7 +9122,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "753937368 [?]",
+        "UlID": "4100944714 [Generic_CampaignAmbientMusic_9_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9168,7 +9168,7 @@
             }
           },
           "ChildIds": [
-            843431367
+            311459660
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9195,7 +9195,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "96966414 [?]",
+        "UlID": "4133437364 [Generic_CampaignAmbientMusic_10_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9228,7 +9228,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "768873232 [?]",
+          "DirectParentID": "3908896162 [Generic_CampaignAmbientMusic_10_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9264,7 +9264,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "768873232 [?]",
+        "UlID": "3908896162 [Generic_CampaignAmbientMusic_10_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9305,7 +9305,7 @@
             }
           },
           "ChildIds": [
-            96966414
+            4133437364
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9332,7 +9332,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "893874224 [?]",
+        "UlID": "1901461473 [Generic_CampaignAmbientMusic_11_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9365,7 +9365,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "883149333 [?]",
+          "DirectParentID": "2237662119 [Generic_CampaignAmbientMusic_11_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9401,7 +9401,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "883149333 [?]",
+        "UlID": "2237662119 [Generic_CampaignAmbientMusic_11_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9442,7 +9442,7 @@
             }
           },
           "ChildIds": [
-            893874224
+            1901461473
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9469,7 +9469,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "954267021 [?]",
+        "UlID": "1068521830 [Generic_CampaignAmbientMusic_12_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9502,7 +9502,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "897718029 [?]",
+          "DirectParentID": "3160858068 [Generic_CampaignAmbientMusic_12_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9538,7 +9538,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "897718029 [?]",
+        "UlID": "3160858068 [Generic_CampaignAmbientMusic_12_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9579,7 +9579,7 @@
             }
           },
           "ChildIds": [
-            954267021
+            1068521830
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9606,7 +9606,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "335411015 [?]",
+        "UlID": "3888957091 [Generic_CampaignAmbientMusic_13_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9639,7 +9639,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "977979374 [?]",
+          "DirectParentID": "1863981545 [Generic_CampaignAmbientMusic_13_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9675,7 +9675,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "977979374 [?]",
+        "UlID": "1863981545 [Generic_CampaignAmbientMusic_13_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9716,7 +9716,7 @@
             }
           },
           "ChildIds": [
-            335411015
+            3888957091
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9743,7 +9743,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "304005967 [?]",
+        "UlID": "1289435560 [Generic_CampaignAmbientMusic_14_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9776,7 +9776,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "992181497 [?]",
+          "DirectParentID": "3954928158 [Generic_CampaignAmbientMusic_14_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9812,7 +9812,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "992181497 [?]",
+        "UlID": "3954928158 [Generic_CampaignAmbientMusic_14_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -9858,7 +9858,7 @@
             }
           },
           "ChildIds": [
-            304005967
+            1289435560
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -9885,7 +9885,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "158244168 [?]",
+        "UlID": "180423013 [Generic_CampaignAmbientMusic_15_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -9918,7 +9918,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "1071989230 [?]",
+          "DirectParentID": "847371411 [Generic_CampaignAmbientMusic_15_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -9954,7 +9954,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "1071989230 [?]",
+        "UlID": "847371411 [Generic_CampaignAmbientMusic_15_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -10000,7 +10000,7 @@
             }
           },
           "ChildIds": [
-            158244168
+            180423013
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -10027,7 +10027,7 @@
       {
         "$type": "Music Random/Sequence Container",
         "EHircType": 13,
-        "UlID": "864612182 [?]",
+        "UlID": "1063008052 [Generic_CampaignAmbientMusic]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -10068,22 +10068,22 @@
             }
           },
           "ChildIds": [
-            49451155,
+            3609918658,
             80414033,
-            100298284,
-            175625483,
-            182838220,
-            382713955,
-            383880412,
-            586206159,
-            656015202,
-            753937368,
-            768873232,
-            883149333,
-            897718029,
-            977979374,
-            992181497,
-            1071989230
+            1621316105,
+            1679664756,
+            2643391539,
+            1497557694,
+            924964869,
+            3948020976,
+            2666818255,
+            4100944714,
+            3908896162,
+            2237662119,
+            3160858068,
+            1863981545,
+            3954928158,
+            847371411
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -10150,7 +10150,7 @@
                 "IsShuffle": 0,
                 "PlaylistItems": [
                   {
-                    "SegmentId": 182838220,
+                    "SegmentId": 2643391539,
                     "PlaylistItemId": 996840849,
                     "RsType": 4294967295,
                     "Loop": 1,
@@ -10175,7 +10175,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 977979374,
+                        "SegmentId": 1863981545,
                         "PlaylistItemId": 69731524,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10188,7 +10188,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 1071989230,
+                        "SegmentId": 847371411,
                         "PlaylistItemId": 740956366,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10215,7 +10215,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 100298284,
+                        "SegmentId": 1621316105,
                         "PlaylistItemId": 888480946,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10228,7 +10228,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 992181497,
+                        "SegmentId": 3954928158,
                         "PlaylistItemId": 592651765,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10255,7 +10255,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 586206159,
+                        "SegmentId": 3948020976,
                         "PlaylistItemId": 770007867,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10268,7 +10268,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 49451155,
+                        "SegmentId": 3609918658,
                         "PlaylistItemId": 80397597,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10295,7 +10295,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 883149333,
+                        "SegmentId": 2237662119,
                         "PlaylistItemId": 881791661,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10308,7 +10308,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 656015202,
+                        "SegmentId": 2666818255,
                         "PlaylistItemId": 873480288,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10335,7 +10335,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 768873232,
+                        "SegmentId": 3908896162,
                         "PlaylistItemId": 121712707,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10348,7 +10348,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 382713955,
+                        "SegmentId": 1497557694,
                         "PlaylistItemId": 259964879,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10375,7 +10375,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 897718029,
+                        "SegmentId": 3160858068,
                         "PlaylistItemId": 143435323,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10388,7 +10388,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 753937368,
+                        "SegmentId": 4100944714,
                         "PlaylistItemId": 768668442,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10415,7 +10415,7 @@
                     "IsShuffle": 1,
                     "PlaylistItems": [
                       {
-                        "SegmentId": 175625483,
+                        "SegmentId": 1679664756,
                         "PlaylistItemId": 307133864,
                         "RsType": 4294967295,
                         "Loop": 1,
@@ -10428,7 +10428,7 @@
                         "PlaylistItems": []
                       },
                       {
-                        "SegmentId": 383880412,
+                        "SegmentId": 924964869,
                         "PlaylistItemId": 763647116,
                         "RsType": 4294967295,
                         "Loop": 1,
