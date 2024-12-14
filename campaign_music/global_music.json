@@ -234,7 +234,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "2886985 [?]",
+            "DirectParentID": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -496,7 +496,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "2886985 [?]",
+            "DirectParentID": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -762,7 +762,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "2886985 [?]",
+            "DirectParentID": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -872,7 +872,7 @@
       {
         "$type": "Music Track",
         "EHircType": 11,
-        "UlID": "268426955 [?]",
+        "UlID": "4011170007 [Generic_CampaignPrebattleMusic_1_Track]",
         "Overrides": 0,
         "Sources": [
           {
@@ -905,7 +905,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "1047327910 [?]",
+          "DirectParentID": "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -946,7 +946,7 @@
       {
         "$type": "Music Segment",
         "EHircType": 10,
-        "UlID": "1047327910 [?]",
+        "UlID": "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -956,7 +956,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "934311252 [?]",
+            "DirectParentID": "2312189687 [Generic_CampaignPrebattleMusic]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -992,7 +992,7 @@
             }
           },
           "ChildIds": [
-            "268426955 [?]"
+            "4011170007 [Generic_CampaignPrebattleMusic_1_Track]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -1019,7 +1019,7 @@
       {
         "$type": "Music Random/Sequence Container",
         "EHircType": 13,
-        "UlID": "934311252 [?]",
+        "UlID": "2312189687 [Generic_CampaignPrebattleMusic]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -1029,7 +1029,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "2886985 [?]",
+            "DirectParentID": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -1065,7 +1065,7 @@
             }
           },
           "ChildIds": [
-            "1047327910 [?]"
+            "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -1120,7 +1120,7 @@
             "IsShuffle": 0,
             "PlaylistItems": [
               {
-                "SegmentId": "1047327910 [?]",
+                "SegmentId": "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]",
                 "PlaylistItemId": 879794525,
                 "RsType": 4294967295,
                 "Loop": 0,
@@ -1139,7 +1139,7 @@
       {
         "$type": "Music Switch Container",
         "EHircType": 12,
-        "UlID": "2886985 [?]",
+        "UlID": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -1149,7 +1149,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "95368203 [?]",
+            "DirectParentID": "3741180972 [CampaignMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -1188,7 +1188,7 @@
             "564736411 [?]",
             "566667418 [?]",
             "808922212 [?]",
-            "934311252 [?]"
+            "2312189687 [Generic_CampaignPrebattleMusic]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -1250,7 +1250,7 @@
             "Children": [
               {
                 "Key": "0 [?]",
-                "AudioNodeId": "934311252 [?]",
+                "AudioNodeId": "2312189687 [Generic_CampaignPrebattleMusic]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -10474,7 +10474,7 @@
             },
             "OverrideAttachmentParams": 0,
             "OverrideBusId": "0 [?]",
-            "DirectParentID": "95368203 [?]",
+            "DirectParentID": "3741180972 [CampaignMusic_SwitchContainer]",
             "ByBitVector": 0,
             "NodeInitialParams": {
               "AkPropBundle": {
@@ -10612,7 +10612,7 @@
       {
         "$type": "Music Switch Container",
         "EHircType": 12,
-        "UlID": "95368203 [?]",
+        "UlID": "3741180972 [CampaignMusic_SwitchContainer]",
         "MusicNodeParams": {
           "Flags": 0,
           "NodeBaseParams": {
@@ -10653,7 +10653,7 @@
             }
           },
           "ChildIds": [
-            "2886985 [?]",
+            "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
             "865785078 [CampaignAmbientMusic_SwitchContainer]"
           ],
           "AkMeterInfo": {
@@ -10753,7 +10753,7 @@
               4294967295
             ],
             "DstIds": [
-              2886985
+              3106488741
             ],
             "AkMusicTransSrcRule": {
               "TransitionTime": 2000,
@@ -10777,7 +10777,7 @@
           },
           {
             "SourceIds": [
-              2886985
+              3106488741
             ],
             "DstIds": [
               865785078
@@ -10804,7 +10804,7 @@
           },
           {
             "SourceIds": [
-              2886985
+              3106488741
             ],
             "DstIds": [
               4294967295
@@ -10859,7 +10859,7 @@
               },
               {
                 "Key": "2967361734 [prebattle]",
-                "AudioNodeId": "2886985 [?]",
+                "AudioNodeId": "3106488741 [CampaignPrebattleMusic_SwitchContainer]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
@@ -32396,7 +32396,7 @@
           },
           "ChildIds": [
             "52432843 [?]",
-            "95368203 [?]",
+            "3741180972 [CampaignMusic_SwitchContainer]",
             "409295637 [?]",
             "800041465 [?]",
             "1015247920 [?]"
@@ -32550,7 +32550,7 @@
               },
               {
                 "Key": "30729851 [campaign]",
-                "AudioNodeId": "95368203 [?]",
+                "AudioNodeId": "3741180972 [CampaignMusic_SwitchContainer]",
                 "ChildrenIdx": 0,
                 "Weight": 50,
                 "Probability": 100,
