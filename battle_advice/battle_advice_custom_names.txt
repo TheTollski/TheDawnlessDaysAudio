@@ -1,0 +1,3 @@
+BattleAdvice_EnemyGeneralKilled
+BattleAdvice_EnemyGeneralKilled_1
+BattleAdvice_EnemyGeneralKilled_1_File

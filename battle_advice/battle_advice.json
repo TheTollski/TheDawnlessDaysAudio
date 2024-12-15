@@ -11700,13 +11700,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "10009434 [?]",
+        "UlID": "1159827901 [BattleAdvice_EnemyGeneralKilled_1]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "663658020 [?]",
-            "FileId": "663658020 [?]",
+            "SourceId": "2020682090 [BattleAdvice_EnemyGeneralKilled_1_File]",
+            "FileId": "2020682090 [BattleAdvice_EnemyGeneralKilled_1_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -11718,235 +11718,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "621603015 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "182057191 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "701573296 [?]",
-            "FileId": "701573296 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "621603015 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "264691095 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "784489652 [?]",
-            "FileId": "784489652 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "621603015 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "460165462 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "795037403 [?]",
-            "FileId": "795037403 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "621603015 [?]",
-          "ByBitVector": 0,
-          "NodeInitialParams": {
-            "AkPropBundle": {
-              "Props": [
-                {
-                  "Id": 6,
-                  "Value": 100
-                }
-              ]
-            },
-            "AkPropBundleMinMax": {
-              "Props": []
-            }
-          },
-          "PositioningParams": {
-            "ByVector": 192
-          },
-          "AuxParams": {
-            "ByBitVector": 0
-          },
-          "AdvSettingsParams": {
-            "ByBitVector1": 0,
-            "VirtualQueueBehavior": 1,
-            "MaxNumInstance": 0,
-            "BelowThresholdBehavior": 0,
-            "ByBitVector2": 0
-          },
-          "StateChunk": {
-            "StateGroups": []
-          },
-          "InitialRtpc": {
-            "RtpcList": []
-          }
-        }
-      },
-      {
-        "$type": "Sound",
-        "EHircType": 2,
-        "UlID": "524309725 [?]",
-        "AkBankSourceData": {
-          "UlPluginId": 262145,
-          "StreamType": 2,
-          "AkMediaInformation": {
-            "SourceId": "111366968 [?]",
-            "FileId": "111366968 [?]",
-            "InMemoryMediaSize": 0,
-            "SourceBits": 1
-          }
-        },
-        "NodeBaseParams": {
-          "NodeInitialFxParams": {
-            "IsOverrideParentFX": 0,
-            "FxChunks": []
-          },
-          "OverrideAttachmentParams": 0,
-          "OverrideBusId": "0 [?]",
-          "DirectParentID": "621603015 [?]",
+          "DirectParentID": "2915917529 [BattleAdvice_EnemyGeneralKilled]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -11985,7 +11757,7 @@
       {
         "$type": "Random/Sequence Container",
         "EHircType": 5,
-        "UlID": "621603015 [?]",
+        "UlID": "2915917529 [BattleAdvice_EnemyGeneralKilled]",
         "NodeBaseParams": {
           "NodeInitialFxParams": {
             "IsOverrideParentFX": 0,
@@ -12035,32 +11807,12 @@
         "Mode": 0,
         "ByBitVector": 18,
         "ChildIds": [
-          "10009434 [?]",
-          "182057191 [?]",
-          "264691095 [?]",
-          "460165462 [?]",
-          "524309725 [?]"
+          "1159827901 [BattleAdvice_EnemyGeneralKilled_1]"
         ],
         "CAkPlayList": {
           "PlaylistItems": [
             {
-              "PlayId": "182057191 [?]",
-              "Weight": 50000
-            },
-            {
-              "PlayId": "264691095 [?]",
-              "Weight": 50000
-            },
-            {
-              "PlayId": "460165462 [?]",
-              "Weight": 50000
-            },
-            {
-              "PlayId": "10009434 [?]",
-              "Weight": 50000
-            },
-            {
-              "PlayId": "524309725 [?]",
+              "PlayId": "1159827901 [BattleAdvice_EnemyGeneralKilled_1]",
               "Weight": 50000
             }
           ]
@@ -23212,7 +22964,7 @@
           "569037180 [?]",
           "582448771 [?]",
           "609220107 [?]",
-          "621603015 [?]",
+          "2915917529 [BattleAdvice_EnemyGeneralKilled]",
           "629504020 [?]",
           "676139930 [?]",
           "676252222 [?]",
@@ -31236,7 +30988,7 @@
         "EHircType": 3,
         "UlID": "17231836 [?]",
         "UlActionType": 1027,
-        "IdExt": "621603015 [?]",
+        "IdExt": "2915917529 [BattleAdvice_EnemyGeneralKilled]",
         "IdExt_4": 0,
         "AkPropBundle1": {
           "Props": [
