@@ -1017,6 +1017,153 @@
         ]
       },
       {
+        "$type": "Music Track",
+        "EHircType": 11,
+        "UlID": "973728328 [Generic_CampaignPrebattleMusic_2_Track]",
+        "Overrides": 0,
+        "Sources": [
+          {
+            "UlPluginId": 262145,
+            "StreamType": 2,
+            "AkMediaInformation": {
+              "SourceId": "772483640 [?]",
+              "FileId": "772483640 [?]",
+              "InMemoryMediaSize": 0,
+              "SourceBits": 0
+            }
+          }
+        ],
+        "TrackSourceInfos": [
+          {
+            "TrackId": 0,
+            "SourceId": "772483640 [?]",
+            "PlayAt": 0,
+            "BeginTrimOffset": 0,
+            "EndTrimOffset": 0.020833333333333332,
+            "SrcDuration": 85055
+          }
+        ],
+        "NumSubTrack": 1,
+        "ClipAutomations": [],
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "4003149246 [Generic_CampaignPrebattleMusic_2_Segment]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 58,
+                  "Value": 0
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "TrackType": 0,
+        "LookAheadTime": 300
+      },
+      {
+        "$type": "Music Segment",
+        "EHircType": 10,
+        "UlID": "4003149246 [Generic_CampaignPrebattleMusic_2_Segment]",
+        "MusicNodeParams": {
+          "Flags": 0,
+          "NodeBaseParams": {
+            "NodeInitialFxParams": {
+              "IsOverrideParentFX": 0,
+              "FxChunks": []
+            },
+            "OverrideAttachmentParams": 0,
+            "OverrideBusId": "0 [?]",
+            "DirectParentID": "2312189687 [Generic_CampaignPrebattleMusic]",
+            "ByBitVector": 0,
+            "NodeInitialParams": {
+              "AkPropBundle": {
+                "Props": [
+                  {
+                    "Id": 6,
+                    "Value": 100
+                  }
+                ]
+              },
+              "AkPropBundleMinMax": {
+                "Props": []
+              }
+            },
+            "PositioningParams": {
+              "ByVector": 192
+            },
+            "AuxParams": {
+              "ByBitVector": 0
+            },
+            "AdvSettingsParams": {
+              "ByBitVector1": 0,
+              "VirtualQueueBehavior": 1,
+              "MaxNumInstance": 0,
+              "BelowThresholdBehavior": 0,
+              "ByBitVector2": 0
+            },
+            "StateChunk": {
+              "StateGroups": []
+            },
+            "InitialRtpc": {
+              "RtpcList": []
+            }
+          },
+          "ChildIds": [
+            "973728328 [Generic_CampaignPrebattleMusic_2_Track]"
+          ],
+          "AkMeterInfo": {
+            "GridPeriod": 1000,
+            "GridOffset": 0,
+            "Tempo": 120,
+            "TimeSigNumBeatsBar": 4,
+            "TimeSigBeatValue": 4
+          },
+          "MeterInfoFlag": 0,
+          "Stingers": []
+        },
+        "Duration": 85055,
+        "AkMusicMarkers": [
+          {
+            "Id": 43573010,
+            "Position": 0
+          },
+          {
+            "Id": 1539036744,
+            "Position": 85055
+          }
+        ]
+      },
+      {
         "$type": "Music Random/Sequence Container",
         "EHircType": 13,
         "UlID": "2312189687 [Generic_CampaignPrebattleMusic]",
@@ -1065,7 +1212,8 @@
             }
           },
           "ChildIds": [
-            "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]"
+            "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]",
+            "4003149246 [Generic_CampaignPrebattleMusic_2_Segment]"
           ],
           "AkMeterInfo": {
             "GridPeriod": 1000,
@@ -1122,6 +1270,19 @@
               {
                 "SegmentId": "3430556421 [Generic_CampaignPrebattleMusic_1_Segment]",
                 "PlaylistItemId": 879794525,
+                "RsType": 4294967295,
+                "Loop": 0,
+                "LoopMin": 0,
+                "LoopMax": 0,
+                "Weight": 50000,
+                "AvoidRepeatCount": 0,
+                "IsUsingWeight": 0,
+                "IsShuffle": 0,
+                "PlaylistItems": []
+              },
+              {
+                "SegmentId": "4003149246 [Generic_CampaignPrebattleMusic_2_Segment]",
+                "PlaylistItemId": 879794526,
                 "RsType": 4294967295,
                 "Loop": 0,
                 "LoopMin": 0,
@@ -7882,7 +8043,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 52000
+            "SrcDuration": 52480
           }
         ],
         "NumSubTrack": 1,
@@ -7988,7 +8149,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 52000,
+        "Duration": 52480,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -7996,7 +8157,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 52000
+            "Position": 52480
           }
         ]
       },
@@ -8090,7 +8251,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 93000
+            "SrcDuration": 93962
           }
         ],
         "NumSubTrack": 1,
@@ -8191,7 +8352,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 93000,
+        "Duration": 93962,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8199,7 +8360,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 93000
+            "Position": 93962
           }
         ]
       },
@@ -8227,7 +8388,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 99000
+            "SrcDuration": 99161
           }
         ],
         "NumSubTrack": 1,
@@ -8328,7 +8489,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 99000,
+        "Duration": 99161,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8336,7 +8497,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 99000
+            "Position": 99161
           }
         ]
       },
@@ -8364,7 +8525,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 106000
+            "SrcDuration": 106292
           }
         ],
         "NumSubTrack": 1,
@@ -8465,7 +8626,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 106000,
+        "Duration": 106292,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8473,7 +8634,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 106000
+            "Position": 106292
           }
         ]
       },
@@ -8501,7 +8662,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 357000
+            "SrcDuration": 357471
           }
         ],
         "NumSubTrack": 1,
@@ -8607,7 +8768,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 357000,
+        "Duration": 357471,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8615,7 +8776,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 357000
+            "Position": 357471
           }
         ]
       },
@@ -8643,7 +8804,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 91000
+            "SrcDuration": 91611
           }
         ],
         "NumSubTrack": 1,
@@ -8754,7 +8915,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 91000,
+        "Duration": 91611,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8762,7 +8923,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 91000
+            "Position": 91611
           }
         ]
       },
@@ -8790,7 +8951,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 188000
+            "SrcDuration": 188500
           }
         ],
         "NumSubTrack": 1,
@@ -8891,7 +9052,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 188000,
+        "Duration": 188500,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -8899,7 +9060,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 188000
+            "Position": 188500
           }
         ]
       },
@@ -8927,7 +9088,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 120000
+            "SrcDuration": 120216
           }
         ],
         "NumSubTrack": 1,
@@ -9033,7 +9194,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 120000,
+        "Duration": 120216,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9041,7 +9202,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 120000
+            "Position": 120216
           }
         ]
       },
@@ -9069,7 +9230,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 102000
+            "SrcDuration": 102949
           }
         ],
         "NumSubTrack": 1,
@@ -9180,7 +9341,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 102000,
+        "Duration": 102949,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9188,7 +9349,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 102000
+            "Position": 102949
           }
         ]
       },
@@ -9216,7 +9377,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 64000
+            "SrcDuration": 64575
           }
         ],
         "NumSubTrack": 1,
@@ -9317,7 +9478,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 64000,
+        "Duration": 64575,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9325,7 +9486,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 64000
+            "Position": 64575
           }
         ]
       },
@@ -9353,7 +9514,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 86000
+            "SrcDuration": 86831
           }
         ],
         "NumSubTrack": 1,
@@ -9454,7 +9615,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 86000,
+        "Duration": 86831,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9462,7 +9623,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 86000
+            "Position": 86831
           }
         ]
       },
@@ -9490,7 +9651,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 51000
+            "SrcDuration": 51174
           }
         ],
         "NumSubTrack": 1,
@@ -9591,7 +9752,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 51000,
+        "Duration": 51174,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9599,7 +9760,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 51000
+            "Position": 51174
           }
         ]
       },
@@ -9627,7 +9788,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 91000
+            "SrcDuration": 91664
           }
         ],
         "NumSubTrack": 1,
@@ -9728,7 +9889,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 91000,
+        "Duration": 91664,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9736,7 +9897,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 91000
+            "Position": 91664
           }
         ]
       },
@@ -9764,7 +9925,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": -0,
-            "SrcDuration": 146000
+            "SrcDuration": 146024
           }
         ],
         "NumSubTrack": 1,
@@ -9870,7 +10031,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 146000,
+        "Duration": 146024,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -9878,7 +10039,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 146000
+            "Position": 146024
           }
         ]
       },
@@ -9906,7 +10067,7 @@
             "PlayAt": 0,
             "BeginTrimOffset": 0,
             "EndTrimOffset": 0,
-            "SrcDuration": 87000
+            "SrcDuration": 87771
           }
         ],
         "NumSubTrack": 1,
@@ -10012,7 +10173,7 @@
           "MeterInfoFlag": 0,
           "Stingers": []
         },
-        "Duration": 87000,
+        "Duration": 87771,
         "AkMusicMarkers": [
           {
             "Id": 43573010,
@@ -10020,7 +10181,7 @@
           },
           {
             "Id": 1539036744,
-            "Position": 87000
+            "Position": 87771
           }
         ]
       },
