@@ -12165,6 +12165,58 @@
         }
       },
       {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3170217961 [Generic_CampaignEndTurn_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1427950382 [Generic_CampaignEndTurn_1_File]",
+            "FileId": "1427950382 [Generic_CampaignEndTurn_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "902582007 [?]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
         "$type": "Switch Container",
         "EHircType": 6,
         "UlID": "902582007 [?]",
@@ -12219,67 +12271,19 @@
         "DefaultSwitch": "748895195 [None]",
         "IsContinuousValidation": 0,
         "ChildIds": [
-          "253740050 [?]",
-          "372351085 [?]",
-          "404964621 [?]",
-          "893785850 [?]"
+          "3170217961 [Generic_CampaignEndTurn_1]"
         ],
         "SwitchPackages": [
           {
             "SwitchId": "748895195 [None]",
             "NodeIds": [
-              "404964621 [?]"
-            ]
-          },
-          {
-            "SwitchId": "1787064993 [barbarian]",
-            "NodeIds": [
-              "372351085 [?]"
-            ]
-          },
-          {
-            "SwitchId": "2164288628 [roman]",
-            "NodeIds": [
-              "404964621 [?]"
-            ]
-          },
-          {
-            "SwitchId": "4291304636 [hunnic]",
-            "NodeIds": [
-              "893785850 [?]"
-            ]
-          },
-          {
-            "SwitchId": "3254137205 [arabic]",
-            "NodeIds": [
-              "253740050 [?]"
+              "3170217961 [Generic_CampaignEndTurn_1]"
             ]
           }
         ],
         "SwitchParams": [
           {
-            "NodeId": "372351085 [?]",
-            "ByBitVector1": 0,
-            "ByBitVector2": 1,
-            "FadeOutTime": 0,
-            "FadeInTime": 0
-          },
-          {
-            "NodeId": "253740050 [?]",
-            "ByBitVector1": 0,
-            "ByBitVector2": 1,
-            "FadeOutTime": 0,
-            "FadeInTime": 0
-          },
-          {
-            "NodeId": "404964621 [?]",
-            "ByBitVector1": 0,
-            "ByBitVector2": 1,
-            "FadeOutTime": 0,
-            "FadeInTime": 0
-          },
-          {
-            "NodeId": "893785850 [?]",
+            "NodeId": "3170217961 [Generic_CampaignEndTurn_1]",
             "ByBitVector1": 0,
             "ByBitVector2": 1,
             "FadeOutTime": 0,
