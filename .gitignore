@@ -2,7 +2,9 @@
 *.mp3
 *.pack
 *.wav
-*.wem
+
 
 Originals/*
+Saruman Audio Files/*
 test/*
+Test Wem Audio Files/*
