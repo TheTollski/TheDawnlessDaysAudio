@@ -1,8 +1,11 @@
 Created by Tollski
-Last Edit: 2024-12-19
+Last Edit: 2025-06-13
+
+Flyby Intros
+* All campaign flyby intro audio files have had their perceived loudness normalized to -18.0 LUFS.
 
 Music
-* All campaign music tracks have had their perceived loudness normalized to -16.0 LUFS.
+* All campaign music audio files have had their perceived loudness normalized to -16.0 LUFS.
 * Ambient campaign music logic has been configured for all cultures to use the same set of 15 music tracks.
 * Prebattle campaign music logic has been configured for all cultures to use the same set of 2 music tracks.
 
