@@ -10,7 +10,7 @@ Music
 * Prebattle campaign music logic has been configured for all cultures to use the same set of 2 music tracks.
 
 UI
-* 
+* All campaign UI audio files have had their perceived loudness normalized to -15.5 LUFS. (Only vanilla end turn loudness was verified.)
 
 VO
 *

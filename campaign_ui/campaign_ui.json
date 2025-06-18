@@ -12167,13 +12167,13 @@
       {
         "$type": "Sound",
         "EHircType": 2,
-        "UlID": "3170217961 [Generic_CampaignEndTurn_1]",
+        "UlID": "3170217963 [Generic_CampaignEndTurn_3]",
         "AkBankSourceData": {
           "UlPluginId": 262145,
           "StreamType": 2,
           "AkMediaInformation": {
-            "SourceId": "1427950382 [Generic_CampaignEndTurn_1_File]",
-            "FileId": "1427950382 [Generic_CampaignEndTurn_1_File]",
+            "SourceId": "3155799012 [Generic_CampaignEndTurn_3_File]",
+            "FileId": "3155799012 [Generic_CampaignEndTurn_3_File]",
             "InMemoryMediaSize": 0,
             "SourceBits": 1
           }
@@ -12185,7 +12185,7 @@
           },
           "OverrideAttachmentParams": 0,
           "OverrideBusId": "0 [?]",
-          "DirectParentID": "902582007 [?]",
+          "DirectParentID": "3944522861 [Generic_CampaignEndTurn]",
           "ByBitVector": 0,
           "NodeInitialParams": {
             "AkPropBundle": {
@@ -12214,6 +12214,203 @@
           "InitialRtpc": {
             "RtpcList": []
           }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3170217962 [Generic_CampaignEndTurn_2]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1527505695 [Generic_CampaignEndTurn_2_File]",
+            "FileId": "1527505695 [Generic_CampaignEndTurn_2_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3944522861 [Generic_CampaignEndTurn]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Sound",
+        "EHircType": 2,
+        "UlID": "3170217961 [Generic_CampaignEndTurn_1]",
+        "AkBankSourceData": {
+          "UlPluginId": 262145,
+          "StreamType": 2,
+          "AkMediaInformation": {
+            "SourceId": "1427950382 [Generic_CampaignEndTurn_1_File]",
+            "FileId": "1427950382 [Generic_CampaignEndTurn_1_File]",
+            "InMemoryMediaSize": 0,
+            "SourceBits": 1
+          }
+        },
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "0 [?]",
+          "DirectParentID": "3944522861 [Generic_CampaignEndTurn]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": []
+            },
+            "AkPropBundleMinMax": {
+              "Props": []
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 192
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        }
+      },
+      {
+        "$type": "Random/Sequence Container",
+        "EHircType": 5,
+        "UlID": "3944522861 [Generic_CampaignEndTurn]",
+        "NodeBaseParams": {
+          "NodeInitialFxParams": {
+            "IsOverrideParentFX": 0,
+            "FxChunks": []
+          },
+          "OverrideAttachmentParams": 0,
+          "OverrideBusId": "784944028 [?]",
+          "DirectParentID": "0 [?]",
+          "ByBitVector": 0,
+          "NodeInitialParams": {
+            "AkPropBundle": {
+              "Props": [
+                {
+                  "Id": 0,
+                  "Value": -18
+                },
+                {
+                  "Id": 2,
+                  "Value": 660
+                },
+                {
+                  "Id": 6,
+                  "Value": 100
+                }
+              ]
+            },
+            "AkPropBundleMinMax": {
+              "Props": [
+                {
+                  "Id": 0,
+                  "Min": -1,
+                  "Max": 0
+                }
+              ]
+            }
+          },
+          "PositioningParams": {
+            "ByVector": 195
+          },
+          "AuxParams": {
+            "ByBitVector": 0
+          },
+          "AdvSettingsParams": {
+            "ByBitVector1": 0,
+            "VirtualQueueBehavior": 1,
+            "MaxNumInstance": 0,
+            "BelowThresholdBehavior": 0,
+            "ByBitVector2": 0
+          },
+          "StateChunk": {
+            "StateGroups": []
+          },
+          "InitialRtpc": {
+            "RtpcList": []
+          }
+        },
+        "LoopCount": 1,
+        "LoopModMin": 0,
+        "LoopModMax": 0,
+        "TransitionTime": 1000,
+        "TransitionTimeModMin": 0,
+        "TransitionTimeModMax": 0,
+        "AvoidRepeatCount": 1,
+        "TransitionMode": 0,
+        "RandomMode": 0,
+        "Mode": 0,
+        "ByBitVector": 18,
+        "ChildIds": [
+          "3170217961 [Generic_CampaignEndTurn_1]",
+          "3170217962 [Generic_CampaignEndTurn_2]",
+          "3170217963 [Generic_CampaignEndTurn_3]"
+        ],
+        "CAkPlayList": {
+          "PlaylistItems": [
+            {
+              "PlayId": "3170217963 [Generic_CampaignEndTurn_3]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3170217962 [Generic_CampaignEndTurn_2]",
+              "Weight": 50000
+            },
+            {
+              "PlayId": "3170217961 [Generic_CampaignEndTurn_1]",
+              "Weight": 50000
+            }
+          ]
         }
       },
       {
@@ -12271,19 +12468,19 @@
         "DefaultSwitch": "748895195 [None]",
         "IsContinuousValidation": 0,
         "ChildIds": [
-          "3170217961 [Generic_CampaignEndTurn_1]"
+          "893785850 [?]"
         ],
         "SwitchPackages": [
           {
             "SwitchId": "748895195 [None]",
             "NodeIds": [
-              "3170217961 [Generic_CampaignEndTurn_1]"
+              "893785850 [?]"
             ]
           }
         ],
         "SwitchParams": [
           {
-            "NodeId": "3170217961 [Generic_CampaignEndTurn_1]",
+            "NodeId": "893785850 [?]",
             "ByBitVector1": 0,
             "ByBitVector2": 1,
             "FadeOutTime": 0,
@@ -13053,7 +13250,7 @@
         "EHircType": 3,
         "UlID": "521732382 [?]",
         "UlActionType": 1027,
-        "IdExt": "902582007 [?]",
+        "IdExt": "3944522861 [Generic_CampaignEndTurn]",
         "IdExt_4": 0,
         "AkPropBundle1": {
           "Props": []
