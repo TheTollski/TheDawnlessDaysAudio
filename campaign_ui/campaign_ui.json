@@ -12330,7 +12330,7 @@
             "FxChunks": []
           },
           "OverrideAttachmentParams": 0,
-          "OverrideBusId": "784944028 [?]",
+          "OverrideBusId": "722063278 [?]",
           "DirectParentID": "0 [?]",
           "ByBitVector": 0,
           "NodeInitialParams": {
@@ -12338,11 +12338,7 @@
               "Props": [
                 {
                   "Id": 0,
-                  "Value": -18
-                },
-                {
-                  "Id": 2,
-                  "Value": 660
+                  "Value": -19
                 },
                 {
                   "Id": 6,
@@ -12351,13 +12347,7 @@
               ]
             },
             "AkPropBundleMinMax": {
-              "Props": [
-                {
-                  "Id": 0,
-                  "Min": -1,
-                  "Max": 0
-                }
-              ]
+              "Props": []
             }
           },
           "PositioningParams": {
