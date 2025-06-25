@@ -1,5 +1,5 @@
 Created by Tollski
-Last Edit: 2025-06-13
+Last Edit: 2025-06-25
 
 Flyby Intros
 * All campaign flyby intro audio files have had their perceived loudness normalized to -18.0 LUFS.
@@ -10,7 +10,8 @@ Music
 * Prebattle campaign music logic has been configured for all cultures to use the same set of 2 music tracks.
 
 UI
-* All campaign UI audio files have had their perceived loudness normalized to -15.5 LUFS. (Only vanilla end turn loudness was verified.)
+* End turn audio files have had their perceived loudness normalized to -15.5 LUFS.
+* Victory, Defeat, and Message audio files have had their perceived loudness normalized to -17.0 LUFS.
 
 VO
 *
